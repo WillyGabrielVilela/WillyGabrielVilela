@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Willy Vilela</h1>
 <h3 align="center">A front-end developer from Brazil</h3>
 
-<p>Sou um desenvolvedor front-end com enorme paixão por tudo que envolva as melhores ferramentas desenvolvimento web e mobile.</p>
+<p>I'm a front-end developer with a huge passion for everything that involves the best web and mobile development tools.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willygabrielvilela&label=Profile%20views&color=0e75b6&style=flat" alt="willygabrielvilela" /> </p>
 
