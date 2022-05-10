@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Willy Vilela</h1>
+<h1 align="center">Hi 👋, I'm Willy Vilela</h1>
 <h3 align="center">A front-end developer from Brazil.</h3>
 
 - 🌱 I’m currently learning **ReactJS, Typescript, Javascript, NodeJS**
