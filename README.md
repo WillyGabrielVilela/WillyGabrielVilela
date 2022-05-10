@@ -15,7 +15,7 @@
   
   <img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=willygabrielvilela&show_icons=true&locale=en&layout=compact" alt="willygabrielvilela" />
 
-<img align="center" width="350px"  src="https://github-readme-stats.vercel.app/api?username=willygabrielvilela&show_icons=true&locale=en" alt="willygabrielvilela" />
+<img align="center" width="450px"  src="https://github-readme-stats.vercel.app/api?username=willygabrielvilela&show_icons=true&locale=en" alt="willygabrielvilela" />
   
 </div>
 
